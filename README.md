@@ -20,7 +20,7 @@ If you want separate miniatures for the red hat Goblin clan encounter and the gr
 
 - Name
 - 5e name
-- Race and class (if applicable)
+- Race and sex (if applicable)
 - Page
 - Quantity
 - Additional description
