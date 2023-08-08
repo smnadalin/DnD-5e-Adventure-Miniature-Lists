@@ -1,6 +1,6 @@
 # DnD 5e Adventure Miniature Lists
 
-A collection of lists of miniatures to run the D&D Adventures Modules
+A collection of lists of miniatures to run the D&D 5e Adventures Modules
 
 ## Modules (more to come later)
 
