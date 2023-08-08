@@ -23,7 +23,7 @@ If you want separate miniatures for the red hat Goblin clan encounter and the gr
 - Quantity
 
 **Raw list:**
-- Part/section chapter
+- Part/section/chapter
 - Page
 - Name
 - 5e name
@@ -34,4 +34,4 @@ If you want separate miniatures for the red hat Goblin clan encounter and the gr
 
 ## Legal Stuff
 
-This summarised information is provided solely as a supplementary reference for those who possess the relevant D&D Adventure Modules published by Wizards of the Coast. All D&D content remains the exclusive property of Wizards of the Coast. This document does not replace official publications and is not intended for commercial use. The creators are not affiliated with or endorsed by Wizards of the Coast, and the use of this information is subject to understanding and respecting Wizards of the Coast's rights and terms.
+This summarised information is provided solely as a supplementary reference for those who possess the relevant D&D Adventure Modules published by Wizards of the Coast. All D&D content remains the exclusive property of Wizards of the Coast. This document does not replace official publications and is not intended for commercial use. The creators are not affiliated with or endorsed by Wizards of the Coast, and the use of this information is subject to understanding and respecting Wizards of the Coast's rights and terms
