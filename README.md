@@ -23,7 +23,7 @@ If you want separate miniatures for the red hat Goblin clan encounter and the gr
 - Quantity
 
 **Raw list:**
-- Part/section/chapter
+- Part / section / chapter
 - Page
 - Name
 - 5e name
