@@ -4,8 +4,8 @@ A collection of lists of miniatures to run the D&D 5e Adventures Modules
 
 ## Modules (more to come later)
 
-- Lost Mine of Phandelver
-- Curse of Strahd (Work in Progress)
+- Lost Mine of Phandelver ⚒️
+- Curse of Strahd (Work in Progress) 🧛
 
 ## How to Use
 
